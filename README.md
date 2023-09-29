@@ -18,6 +18,7 @@ contents and sql
 contents only, and can perform CRUD but not the calculation of payroll
 
 /   nagawa na, pero CRUD pa lang nagagawa
+
 x   di pa nagagawa, I CRU-CRUD mo lang naman
 
 
